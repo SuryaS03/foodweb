@@ -5,8 +5,8 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='socialmedia'>
-            {""}
-            <Instagram/>
+            {""}<a href='https://leetcode.com/problemset/'>
+            <Instagram/></a>
             <Facebook/>
             <Twitter/>
             <LinkedIn/>

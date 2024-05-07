@@ -5,8 +5,7 @@ import PedroTechSpecial from "../assets/pedrotechspecial.jpg";
 import Vegan from "../assets/vegan.jpg";
 import Pineapple from "../assets/pineapple.jpg";
 import Expensive from "../assets/expensive.jpg";
-
-export const MenuList = [
+ const MenuList = [
   {
     name: "Pepperoni Pizza",
     image: Pepperoni,
@@ -38,3 +37,5 @@ export const MenuList = [
     price: 1997.99,
   },
 ];
+
+export default MenuList;
