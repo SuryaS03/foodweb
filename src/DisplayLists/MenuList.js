@@ -10,31 +10,38 @@ import Expensive from "../assets/expensive.jpg";
     name: "Pepperoni Pizza",
     image: Pepperoni,
     price: 15.99,
+    link:"https://leetcode.com/problemset/",
   },
   {
     name: "Margherita Pizza",
     image: Margherita,
     price: 11.99,
+    link:"https://leetcode.com/problemset/",
   },
   {
     name: "PedroTech Special Pizza",
     image: PedroTechSpecial,
     price: 256.53,
+    link:"https://leetcode.com/problemset/",
   },
   {
     name: "Vegan Pizza",
     image: Vegan,
     price: 17.99,
+    link:"https://leetcode.com/problemset/",
+
   },
   {
     name: "Pineapple Pizza",
     image: Pineapple,
     price: 4.99,
+    link:"https://leetcode.com/problemset/",
   },
   {
     name: "Very Expensive Pizza",
     image: Expensive,
     price: 1997.99,
+    link:"https://leetcode.com/problemset/",
   },
 ];
 
